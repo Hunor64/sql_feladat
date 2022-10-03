@@ -1,4 +1,4 @@
-# sql_feladat
+# sql Feladat
 
 1. Hozz létre adatbázist barlangok néven, amelynek az alapértelmezett kódolása UTF-8, és az illesztése a magyar ékezetes karakterek szerint van!
 
