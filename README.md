@@ -4,12 +4,19 @@
 
 2. Hozz létre táblát barlang néven, amely a következő adatmezőkből áll:
 
+
 Nev: Maximum 50 karakteres szöveg, ez a kulcs
+
 Hossz: Valós szám, max. 6 számjegy, amelyből 1 tizedesjegy
+
 Kiterjedes: Valós szám, max. 6 számjegy, amelyből 1 tizedesjegy
+
 Melyseg: Valós szám, max. 6 számjegy, amelyből 1 tizedesjegy
+
 Magassag: Valós szám, max. 6 számjegy, amelyből 1 tizedesjegy
+
 Telepules: Maximum 50 karakteres szöveg
+
 
 3. Töröld az adatbázisból "Tés" barlangjait!
 
